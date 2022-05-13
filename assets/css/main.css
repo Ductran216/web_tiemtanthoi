@@ -5060,7 +5060,7 @@
   .page-news .pagination span {
     font-family: "Barlow", sans-serif;
     font-size: 14px;
-    display: inline-block;
+    /* display: inline-block; */
     float: left;
     width: 40px;
     height: 40px;
@@ -8186,7 +8186,7 @@
     font-family: "Barlow", sans-serif;
     font-size: 14px;
     display: inline-block;
-    float: left;
+    /* float: left; */
     width: 40px;
     height: 40px;
     line-height: 38px;
